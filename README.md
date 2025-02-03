@@ -8,6 +8,10 @@
 
 ###
 
+<script>
+  document.getElementById('role').innerHTML = 'Full-Stack Web Developer <span id="dsa"> | Competitive Programmer | DSA Enthusiast</span>';
+</script>
+
 <h3 align="left">👩‍💻  About Me:</h3>
 
 ###
@@ -133,3 +137,5 @@
 <p align="left">Hello World!!</p>
 
 ###
+
+
