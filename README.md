@@ -4,7 +4,7 @@
 
 <hr>
 
-<h1 align="center">Hi there, I'm Yash Goyal! 🙂‍↕️</h1>
+<h1 align="center">Hi there, I'm Yash Goyal! 🫡</h1>
 
 <hr>
 
@@ -122,7 +122,7 @@
   </a>
   
  <a href="https://portfolio-yash-goyal.vercel.app/" target="_blank">
-    <img src="https://via.placeholder.com/100x100" alt="Portfolio Image" width="100" height="100" style="border-radius: 8px; margin-top: 10px;" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swic.edu%2Fportfolio-day%2F&psig=AOvVaw30NeLkpXJGfhnuImPc6SR6&ust=1738690700330000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODoheCFqIsDFQAAAAAdAAAAABAE" alt="Portfolio Image" width="100" height="100" style="border-radius: 8px; margin-top: 10px;" />
   </a>
 </div>
 
