@@ -4,7 +4,7 @@
 
 <hr>
 
-<h1 align="center">Hi there, I'm Yash Goyal! 🫡</h1>
+<h1 align="left">Hi there, I'm Yash Goyal! 🫡</h1>
 
 <hr>
 
@@ -26,8 +26,7 @@
 <hr>
 
 <p align="left">- 🎯 B.Tech CSE Student at <b>IIIT Kota</b> <br>-🌱 I’m a Full-Stack Web Developer <br>- 🎨 General Secretary at <b>Creative Art and Cultural Society</b>
-  <br>
-  <p align="left">- 📫 Reach me at: <a href="mailto:yashgoyal0905@gmail.com"><strong>yashgoyal0905@gmail.com</strong></a></p>
+  <br><p align="left">- 📫 Reach me at: <a href="mailto:yashgoyal0905@gmail.com"><strong>yashgoyal0905@gmail.com</strong></a></p>
 
 <hr>
 
@@ -92,9 +91,6 @@
 <hr>
 
 <h3 align="left">📊  Github  Stats :</h3>
-
-<hr>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgoyal9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -122,7 +118,7 @@
   </a>
   
  <a href="https://portfolio-yash-goyal.vercel.app/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.swic.edu%2Fportfolio-day%2F&psig=AOvVaw30NeLkpXJGfhnuImPc6SR6&ust=1738690700330000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODoheCFqIsDFQAAAAAdAAAAABAE" alt="Portfolio Image" width="100" height="100" style="border-radius: 8px; margin-top: 10px;" />
+    <img src="https://img.shields.io/static/v1?message=portfolio&logo=portfolio&label=&color=brown&logoColor=white&labelColor=&style=for-the-badge" alt="Portfolio Image" width="100" height="100" style="border-radius: 8px; margin-top: 10px;" />
   </a>
 </div>
 
@@ -131,12 +127,13 @@
 <h3 align="left">👩‍💻 Achievements:</h3>
 
 <p align="left">
-  - 🏆 <a href="https://drive.google.com/file/d/10nDjpSCsxW27HS4k6h7imhZp4QrIAC8q/view" target="_blank"><strong>First Position in <b>Web Relay</b> by Google DSC, IIIT Kota at Tech Summit</strong></a><br>
-  - 💥 <a href="https://drive.google.com/file/d/1lmr38qIWjJ6X8Ma4j9CfhOl9R9U56GSq/view" target="_blank"><strong>First Position in <b>Botanical Bid</b> Auction Tournament by TGCC, IIIT Kota</strong></a><br>
-  - 🎨 <a href="https://drive.google.com/drive/folders/14UoPJwiJoi9uGNB5pSdD41R5iWV3oVWW?usp=sharing" target="_blank"><strong>Part of the Designing Team of Our College at IIIT Kota</strong></a><br>
-  - 🎨 <a href="https://drive.google.com/file/d/18kD9hFNuIWssZ5fDvGwAmP3pWQxDlPg3/view" target="_blank"><strong>Part of the Fit India Club (Fitness Club) at IIIT Kota</strong></a><br>
-  - 🚀 <a href="https://drive.google.com/file/d/1XbatIauRJTefECPFTKeo8mDhrgM7iRgZ/view" target="_blank"><strong>Qualified for Round 2 of Flipkart Grid 6.0 after clearing Round 1 among 5 Lakh+ participants</strong></a><br>
-  - ⚡ <a href="https://drive.google.com/file/d/1hpXxU3VZa2qWrTDxPmsUiZml44bS2_sj/view" target="_blank"><strong>Made it to Round 2 of HP Power Lab after clearing Round 1, competing against other colleges</strong></a>
+ - 🏆 <a href="https://drive.google.com/file/d/10nDjpSCsxW27HS4k6h7imhZp4QrIAC8q/view" target="_blank"><strong>First Position in <b>Web Relay</b> by Google DSC, IIIT Kota at Tech Summit</strong></a><br>
+- 💥 <a href="https://drive.google.com/file/d/1lmr38qIWjJ6X8Ma4j9CfhOl9R9U56GSq/view" target="_blank"><strong>First Position in <b>Botanical Bid</b> Auction Tournament by TGCC, IIIT Kota</strong></a><br>
+- 🎨 <a href="https://drive.google.com/drive/folders/14UoPJwiJoi9uGNB5pSdD41R5iWV3oVWW?usp=sharing" target="_blank"><strong>Part of the Designing Team of Our College at IIIT Kota</strong></a><br>
+- 🎨 <a href="https://drive.google.com/file/d/18kD9hFNuIWssZ5fDvGwAmP3pWQxDlPg3/view" target="_blank"><strong>Part of the Fit India Club (Fitness Club) at IIIT Kota</strong></a><br>
+- 🚀 <a href="https://drive.google.com/file/d/1XbatIauRJTefECPFTKeo8mDhrgM7iRgZ/view" target="_blank"><strong>Qualified for Round 2 of Flipkart Grid 6.0 after clearing Round 1 among 5 Lakh+ participants</strong></a><br>
+- ⚡ <a href="https://drive.google.com/file/d/1hpXxU3VZa2qWrTDxPmsUiZml44bS2_sj/view" target="_blank"><strong>Made it to Round 2 of HP Power Lab after clearing Round 1, competing against other colleges</strong></a><br>
+
 </p>
 
 <hr>
@@ -154,8 +151,10 @@
   
   - 🌐 <a href="https://your-portfolio-link.com" target="_blank"><strong>Portfolio Website</strong></a> | Next.js, TypeScript, Framer Motion, Tailwind CSS, React Libraries<br>
     - Implemented a scalable architecture within a MERN stack framework, integrating over 100 API endpoints, improving data retrieval efficiency and reducing system downtime by 15%.<br>
-    - Optimized front-end performance, reducing latency by 30% and boosting overall performance. Responsive design principles with Tailwind CSS contributed to a 25% increase in user retention and mobile engagement.
+    - Optimized front-end performance, reducing latency by 30% and boosting overall performance.<br>
+    - Responsive design principles with Tailwind CSS contributed to a 25% increase in user retention and mobile engagement.
 </p>
+
 
 <hr>
 
@@ -168,3 +167,35 @@
 <hr>
 
 <img src="https://raw.githubusercontent.com/yashgoyal9/yashgoyal9/output/snake.svg" alt="Snake animation" />
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animated Thanks</title>
+  <style>
+    @keyframes bounce {
+      0% { transform: translateY(0); }
+      25% { transform: translateY(-10px); }
+      50% { transform: translateY(0); }
+      75% { transform: translateY(-10px); }
+      100% { transform: translateY(0); }
+    }
+
+    .thanks-message {
+      font-size: 2em;
+      font-weight: bold;
+      color: #4CAF50;
+      text-align: center;
+      animation: bounce 1s infinite;
+    }
+  </style>
+</head>
+<body>
+  <div class="thanks-message">
+    Thanks for visiting! 🎉
+  </div>
+</body>
+</html>
