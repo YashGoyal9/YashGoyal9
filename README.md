@@ -8,84 +8,123 @@
 
 <hr>
 
-<script>
-  let roles = ['Full-Stack Web Developer', 'Competitive Programmer', 'DSA Enthusiast'];
-  let currentRoleIndex = 0;
-  let roleElement = document.getElementById('role');
-
-  function updateRole() {
-    currentRoleIndex = (currentRoleIndex + 1) % roles.length;
-    roleElement.innerHTML = roles[currentRoleIndex];
-  }
-
-  setInterval(updateRole, 2000); // Change every 2 seconds
-</script>
-
 <h3 align="left">👩‍💻  About Me:</h3>
 
 <hr>
 
 <p align="left">- 🎯 B.Tech CSE Student at <b>IIIT Kota</b> <br>-🌱 I’m a Full-Stack Web Developer <br>- 🎨 General Secretary at <b>Creative Art and Cultural Society</b>
-  <br><p align="left">- 📫 Reach me at: <a href="mailto:yashgoyal0905@gmail.com"><strong>yashgoyal0905@gmail.com</strong></a></p>
+  <br>- 📫 Reach me at: <a href="mailto:yashgoyal0905@gmail.com"><strong>yashgoyal0905@gmail.com</strong></a>
 
 <hr>
 
 <h3 align="left">🛠 Language and tools</h3>
 
-<hr>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  /> MongoDB
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  /> Express.js
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  /> Next.js
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  /> React
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  /> Node.js
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=redux" height="35" alt="redux logo"  /> Redux
-  <img width="11" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  /> JavaScript
-  <img width="11" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  /> Tailwind CSS
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  /> HTML5
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  /> C++
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  /> Python
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  /> Java
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  /> CSS3
-  <img width="11" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  /> Git
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  /> GitHub
-  <img width="11" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="35" alt="canva logo"  /> Canva
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  /> MySQL
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="35" alt="arduino logo"  /> Arduino
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=blender" height="35" alt="blender logo"  /> Blender
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="35" alt="matlab logo"  /> MATLAB
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="35" alt="amazonwebservices logo"  /> AWS
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="googlecloud logo"  /> Google Cloud
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo"  /> Jupyter
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="35" alt="npm logo"  /> NPM
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"  /> NumPy
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  /> VSCode
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+    MongoDB
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
+    Express.js
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
+    Next.js
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+    React
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
+    Node.js
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo" />
+    Redux
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo" />
+    JavaScript
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
+    Tailwind CSS
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
+    HTML5
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" />
+    C++
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
+    Python
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+    Java
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+    CSS3
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo" />
+    Git
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
+    GitHub
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo" />
+    Canva
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
+    MySQL
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo" />
+    Arduino
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo" />
+    Blender
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" />
+    MATLAB
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo" />
+    AWS
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo" />
+    Google Cloud
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
+    Jupyter
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
+    NPM
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
+    NumPy
+  </span>
+  <span style="display: inline-flex; align-items: center; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+    VSCode
+  </span>
 </div>
 
 <hr>
@@ -118,7 +157,7 @@
   </a>
   
  <a href="https://portfolio-yash-goyal.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=portfolio&logo=portfolio&label=&color=brown&logoColor=white&labelColor=&style=for-the-badge" alt="Portfolio Image" width="100" height="100" style="border-radius: 8px; margin-top: 10px;" />
+    <img src="https://img.shields.io/static/v1?message=portfolio&logo=portfolio&label=&color=brown&logoColor=white&labelColor=&style=for-the-badge" alt="Portfolio Image" height="25" alt="Portfolio logo"/>
   </a>
 </div>
 
@@ -127,13 +166,11 @@
 <h3 align="left">👩‍💻 Achievements:</h3>
 
 <p align="left">
- - 🏆 <a href="https://drive.google.com/file/d/10nDjpSCsxW27HS4k6h7imhZp4QrIAC8q/view" target="_blank"><strong>First Position in <b>Web Relay</b> by Google DSC, IIIT Kota at Tech Summit</strong></a><br>
-- 💥 <a href="https://drive.google.com/file/d/1lmr38qIWjJ6X8Ma4j9CfhOl9R9U56GSq/view" target="_blank"><strong>First Position in <b>Botanical Bid</b> Auction Tournament by TGCC, IIIT Kota</strong></a><br>
-- 🎨 <a href="https://drive.google.com/drive/folders/14UoPJwiJoi9uGNB5pSdD41R5iWV3oVWW?usp=sharing" target="_blank"><strong>Part of the Designing Team of Our College at IIIT Kota</strong></a><br>
-- 🎨 <a href="https://drive.google.com/file/d/18kD9hFNuIWssZ5fDvGwAmP3pWQxDlPg3/view" target="_blank"><strong>Part of the Fit India Club (Fitness Club) at IIIT Kota</strong></a><br>
-- 🚀 <a href="https://drive.google.com/file/d/1XbatIauRJTefECPFTKeo8mDhrgM7iRgZ/view" target="_blank"><strong>Qualified for Round 2 of Flipkart Grid 6.0 after clearing Round 1 among 5 Lakh+ participants</strong></a><br>
-- ⚡ <a href="https://drive.google.com/file/d/1hpXxU3VZa2qWrTDxPmsUiZml44bS2_sj/view" target="_blank"><strong>Made it to Round 2 of HP Power Lab after clearing Round 1, competing against other colleges</strong></a><br>
-
+  - 🏆 Got First Position in <strong>"Web Relay"</strong> organised by Google DSC, IIIT KOTA in Tech Summit. <a href="https://drive.google.com/file/d/10nDjpSCsxW27HS4k6h7imhZp4QrIAC8q/view" target="_blank"><strong>Link</strong></a><br>
+  - 💥 Secured First Position in <strong>"Botanical Bid"</strong> Auction Tournament Organized by TGCC, IIIT Kota. <a href="https://drive.google.com/file/d/1lmr38qIWjJ6X8Ma4j9CfhOl9R9U56GSq/view" target="_blank"><strong>Link</strong></a><br>
+  - 🎨 Part of Designing Team of Our College and Fit India Club, a Fitness Club at our college. <a href="https://drive.google.com/drive/folders/14UoPJwiJoi9uGNB5pSdD41R5iWV3oVWW?usp=sharing" target="_blank"><strong>College FIC</strong></a><br>
+  - 🚀 Qualified for Round 2 of Flipkart Grid 6.0 after clearing Round 1 among 5 Lakh+ participants. <a href="https://drive.google.com/file/d/1XbatIauRJTefECPFTKeo8mDhrgM7iRgZ/view" target="_blank"><strong>Link</strong></a><br>
+  - ⚡ Made it to the Round 2 of HP Power Lab after clearing Round 1, competing against other colleges. <a href="https://drive.google.com/file/d/1hpXxU3VZa2qWrTDxPmsUiZml44bS2_sj/view" target="_blank"><strong>Link</strong></a><br>
 </p>
 
 <hr>
@@ -168,34 +205,5 @@
 
 <img src="https://raw.githubusercontent.com/yashgoyal9/yashgoyal9/output/snake.svg" alt="Snake animation" />
 
+<p>Thanks for visiting! 🎉</p>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Animated Thanks</title>
-  <style>
-    @keyframes bounce {
-      0% { transform: translateY(0); }
-      25% { transform: translateY(-10px); }
-      50% { transform: translateY(0); }
-      75% { transform: translateY(-10px); }
-      100% { transform: translateY(0); }
-    }
-
-    .thanks-message {
-      font-size: 2em;
-      font-weight: bold;
-      color: #4CAF50;
-      text-align: center;
-      animation: bounce 1s infinite;
-    }
-  </style>
-</head>
-<body>
-  <div class="thanks-message">
-    Thanks for visiting! 🎉
-  </div>
-</body>
-</html>
